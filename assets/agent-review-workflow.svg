@@ -1,0 +1,69 @@
+<svg width="1280" height="340" viewBox="0 0 1280 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="flow-title flow-desc">
+  <title id="flow-title">Professional document intelligence workflow</title>
+  <desc id="flow-desc">A workflow diagram showing document parsing, hybrid retrieval, evidence tracing, claim guardrails, and structured review.</desc>
+  <defs>
+    <linearGradient id="flow-bg" x1="32" y1="24" x2="1248" y2="316" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F1720" />
+      <stop offset="0.5" stop-color="#16212A" />
+      <stop offset="1" stop-color="#10171F" />
+    </linearGradient>
+    <linearGradient id="flow-line" x1="96" y1="174" x2="1184" y2="174" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2DD4BF" />
+      <stop offset="0.5" stop-color="#F59E0B" />
+      <stop offset="1" stop-color="#FB7185" />
+    </linearGradient>
+  </defs>
+
+  <rect x="8" y="8" width="1264" height="324" rx="24" fill="url(#flow-bg)" />
+  <text x="56" y="62" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Professional document intelligence workflow</text>
+  <text x="56" y="92" fill="#A9BBC8" font-family="Segoe UI, Arial, sans-serif" font-size="17">From long documents to grounded, reviewable outputs</text>
+
+  <path d="M138 176H1118" stroke="url(#flow-line)" stroke-width="4" stroke-linecap="round" />
+  <path d="M304 176L320 168V184L304 176Z" fill="#4ED7B7" />
+  <path d="M512 176L528 168V184L512 176Z" fill="#D7B35E" />
+  <path d="M720 176L736 168V184L720 176Z" fill="#F3A35B" />
+  <path d="M928 176L944 168V184L928 176Z" fill="#F48C96" />
+
+  <g>
+    <rect x="56" y="122" width="200" height="108" rx="18" fill="#15232D" stroke="#244250" />
+    <rect x="56" y="122" width="200" height="10" rx="5" fill="#2DD4BF" />
+    <text x="78" y="160" fill="#ECF4FA" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Document Parsing</text>
+    <text x="78" y="190" fill="#ABC0CC" font-family="Segoe UI, Arial, sans-serif" font-size="16">PDF / Word / OCR</text>
+    <text x="78" y="214" fill="#ABC0CC" font-family="Segoe UI, Arial, sans-serif" font-size="16">Chunking and table capture</text>
+  </g>
+
+  <g>
+    <rect x="264" y="122" width="200" height="108" rx="18" fill="#15232D" stroke="#244250" />
+    <rect x="264" y="122" width="200" height="10" rx="5" fill="#62C9B0" />
+    <text x="286" y="160" fill="#ECF4FA" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Hybrid Retrieval</text>
+    <text x="286" y="190" fill="#ABC0CC" font-family="Segoe UI, Arial, sans-serif" font-size="16">Embedding plus full-text</text>
+    <text x="286" y="214" fill="#ABC0CC" font-family="Segoe UI, Arial, sans-serif" font-size="16">Rerank and fusion</text>
+  </g>
+
+  <g>
+    <rect x="472" y="122" width="200" height="108" rx="18" fill="#15232D" stroke="#244250" />
+    <rect x="472" y="122" width="200" height="10" rx="5" fill="#F59E0B" />
+    <text x="494" y="160" fill="#ECF4FA" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Evidence Tracing</text>
+    <text x="494" y="190" fill="#ABC0CC" font-family="Segoe UI, Arial, sans-serif" font-size="16">Citation binding</text>
+    <text x="494" y="214" fill="#ABC0CC" font-family="Segoe UI, Arial, sans-serif" font-size="16">Section and source anchors</text>
+  </g>
+
+  <g>
+    <rect x="680" y="122" width="200" height="108" rx="18" fill="#15232D" stroke="#244250" />
+    <rect x="680" y="122" width="200" height="10" rx="5" fill="#F38E5E" />
+    <text x="702" y="160" fill="#ECF4FA" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Claim Guardrails</text>
+    <text x="702" y="190" fill="#ABC0CC" font-family="Segoe UI, Arial, sans-serif" font-size="16">Policy checks</text>
+    <text x="702" y="214" fill="#ABC0CC" font-family="Segoe UI, Arial, sans-serif" font-size="16">Evidence and tool constraints</text>
+  </g>
+
+  <g>
+    <rect x="888" y="122" width="300" height="108" rx="18" fill="#15232D" stroke="#244250" />
+    <rect x="888" y="122" width="300" height="10" rx="5" fill="#FB7185" />
+    <text x="910" y="160" fill="#ECF4FA" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Structured Review Output</text>
+    <text x="910" y="190" fill="#ABC0CC" font-family="Segoe UI, Arial, sans-serif" font-size="16">Issues, verdicts, and reviewable evidence</text>
+    <text x="910" y="214" fill="#ABC0CC" font-family="Segoe UI, Arial, sans-serif" font-size="16">Ready for engineers, reviewers, and teams</text>
+  </g>
+
+  <text x="56" y="286" fill="#7EE7D4" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Grounded output &gt; fluent output</text>
+  <text x="278" y="286" fill="#D7E4EC" font-family="Segoe UI, Arial, sans-serif" font-size="16">No evidence, no claim.</text>
+</svg>
