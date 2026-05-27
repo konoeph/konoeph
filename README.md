@@ -10,7 +10,8 @@
 
 **Contact**  
 Email: [2856006827@qq.com](mailto:2856006827@qq.com)  
-GitHub: [@konoeph](https://github.com/konoeph)
+GitHub: [@konoeph](https://github.com/konoeph)  
+Open to: AI Agent systems | RAG engineering | document intelligence | review automation
 
 ## About Me
 
@@ -62,7 +63,7 @@ Core ideas:
 - FastAPI service surface
 - tests, docs, demos, and CI-friendly structure
 
-Repository: [konoeph/ClaimGuard](https://github.com/konoeph/ClaimGuard)
+Repository: [konoeph/AgentClaimGuard](https://github.com/konoeph/AgentClaimGuard)
 
 ### Engineering Document Review Agent Platform
 
@@ -116,9 +117,9 @@ Right now I am focused on:
 - connecting local model deployment with practical engineering workflows
 - turning AI prototypes into maintainable full-stack products
 
-## Collaboration
+## Contact & Collaboration
 
-I am interested in collaborating on:
+I am especially interested in collaborating on:
 
 - AI Agent engineering
 - RAG systems
